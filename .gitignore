@@ -1,0 +1,4 @@
+*.fd
+__pycache__/
+result
+tmp/
